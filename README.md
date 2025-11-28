@@ -32,14 +32,20 @@ The dataset contains over 3.2 million trips collected throughout 2019. I focused
 
 **Folder Structure:**
 cyclistic-divvy-bike-analysis/
-├── 📄 README.md
+
+├── 📄README.md
+
 ├── 📊 divvy_2019.csv              # cleaned CSV
+
 ├── 📓 divvy_2019.ipynb            
-├── 📈 visuals/                    
-│   ├── trips_by_gender.png
-│   └── tripduration_boxplot.png
-├── 📂 presentation/
-│   └── Divvy_EDA_Presentation.pptx
+
+├── 📈 visuals
+    ├── trips_by_gender.png
+    └── tripduration_boxplot.png
+
+├── 📂 presentation
+    └── Divvy_EDA_Presentation.pptx
+
 ├── 📜 requirements.txt            
 └── 📁 .gitignore                 
 
