@@ -34,8 +34,8 @@ The dataset contains over 3.2 million trips collected throughout 2019. I focused
 cyclistic-divvy-bike-analysis/
 ├── 📄 README.md
 ├── 📊 divvy_2019.csv              # cleaned CSV
-├── 📓 divvy_2019.ipynb            # your Jupyter notebook
-├── 📈 visuals/                    # saved charts/images
+├── 📓 divvy_2019.ipynb            
+├── 📈 visuals/                    
 │   ├── trips_by_gender.png
 │   └── tripduration_boxplot.png
 ├── 📂 presentation/
