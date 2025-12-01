@@ -44,7 +44,7 @@ cyclistic-divvy-bike-analysis/
     └── tripduration_boxplot.png
 
 ├── 📂 presentation
-    └── Divvy_EDA_Presentation.pptx
+     └──Divvy_EDA_Presentation.pptx
 
 ├── 📜 requirements.txt            
 └── 📁 .gitignore                 
